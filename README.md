@@ -1,2 +1,3 @@
 # calc
-Projeto pratica webdev - calculadora simples
+
+calculadora basica em HTML, CSS e Javascript para pratica dos mesmos.
